@@ -30,7 +30,7 @@ The recommended jailbreak tool on this page is the Redensa iTerminal jailbreak, 
 The next highest-ranking iOS 18.2 jailbreak page is the UlfFone iOS 18.2 jailbreak page, which lists the Checkra1 Mirror jailbreak as the top recommended method.
 <br><br>
 Checkra1n Mirror is an online jailbreak tool for iOS 18.2 that lets users jailbreak directly on their devices without a computer. It installs an updated version of Cydia, allowing access to the latest tweaks and apps. 
-<br>
+<br><br>
 <div align="center">
     <img src="https://github.com/user-attachments/assets/f9f46ec7-b503-43cb-8b5f-ee3e43b7aecc" alt="Checkra1nmirror" width="250"/>
 </div>
@@ -50,9 +50,13 @@ Checkra1n Mirror is an online jailbreak tool for iOS 18.2 that lets users jailbr
 The next highest-ranking iOS 18.2 jailbreak page is Xookz, which recommends Palera1n Online as the preferred jailbreak tool.
 <br><br>
 Palera1n jailbreak is compatible with iOS 18.1 and is expected to support iOS 18.2 as well. However, it doesn’t work on all device models and isn’t available as an online method. For greater compatibility and convenience, Palera1n Online is recommended, as it supports all device models and provides an easy online jailbreak option.
-<br>
+<br><br>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/d10480c0-e3e3-4caa-88b0-1770e070bd99" alt="Palear1nonline" width="250"/>
+</div>
+
 <p align="center">
-<a href="https://install.zjailbreak.store/download/18/pro/m/">Download Checkra1n Mirror</a><br>
+<a href="https://install.zjailbreak.store/download/18/pro/m/">Download Palera1n Online (virtual)</a><br>
 <a href="https://palera1n.com/">Step Guide</a>
 </p>
 
