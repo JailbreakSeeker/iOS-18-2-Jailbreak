@@ -31,6 +31,13 @@ The next highest-ranking iOS 18.2 jailbreak page is the UlfFone iOS 18.2 jailbre
 <br><br>
 Checkra1n Mirror is an online jailbreak tool for iOS 18.2 that lets users jailbreak directly on their devices without a computer. It installs an updated version of Cydia, allowing access to the latest tweaks and apps. 
 <br>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/f9f46ec7-b503-43cb-8b5f-ee3e43b7aecc" alt="Checkra1nmirror" width="250"/>
+</div>
+
+
+
+
 
 <p align="center">
 <a href="https://install.zjailbreak.store/download/18/pro/m/">Download Checkra1n Mirror</a><br>
