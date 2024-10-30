@@ -1,9 +1,11 @@
-# iOS 18.2 Jailbreak
+<h1 align="center">iOS 18.2 Jailbreak</h1>
+
 <br>
 The latest release of iOS 18 is iOS 18.2 beta 1. This beta is filled with more advanced, unique features. According to my updates, more features are only supported with iPhone 16 device models. Again, because of this, most iPhone users are seeking the jailbreak solution to enhance the functionality of their devices.
 <br><br>
-Same as the iOS 18 jailbreak here are the top Google ranked jailbreak iOS 18.2 methods. This repository will be a benefit for users who are looking to get more enhancements to their devices.
+Same as the iOS 18 jailbreak repository here are the top Google ranked jailbreak iOS 18.2 methods. This repository will be a benefit for users who are looking to get more enhancements to their devices.
 <br>
+
 
 ## Redensa iTerminal Jailbreak
 <br>
