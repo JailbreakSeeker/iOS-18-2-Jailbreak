@@ -14,6 +14,11 @@ The top-ranking Google result for iOS 18.2 is the Pangu8 iPhone jailbreak page. 
 The recommended jailbreak tool on this page is the Redensa iTerminal jailbreak, an online jailbreak method categorized by options such as ‘Install Apps,’ ‘Open Apps,’ ‘Settings Hacks,’ and ‘ChatGPT Jailbreak.
 <br><br>
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/67868daa-470b-438c-9516-99db503f4cb3" alt="Neutral Minimal Shadow Photographer Frame Mockup Pinterest Pin" width="250"/>
+</div>
+
+
 
 <p align="center">
 <a href="https://install.zjailbreak.store/download/18/pro/m/">Download Redensa iTerminal</a><br>
